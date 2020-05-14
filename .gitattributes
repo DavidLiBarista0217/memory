@@ -1,4 +1,0 @@
-love.zip filter=lfs diff=lfs merge=lfs -text
-father.zip filter=lfs diff=lfs merge=lfs -text
-mother.zip filter=lfs diff=lfs merge=lfs -text
-peanut.zip filter=lfs diff=lfs merge=lfs -text
